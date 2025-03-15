@@ -2,7 +2,7 @@
 
 MeatFLIX.id is a parody website of [netflix.com](netflix.com), this contains code that I made for my internship practice built using laravel 11 and tailwind 4.0., love dad ❤.
 
-![MeatFLIX.id.png](https://i.ibb.co.com/bthM0vT/Screenshot-2025-03-14-111310.png)
+![MeatFLIX.id.png](meatflix.png)
 
 
 
