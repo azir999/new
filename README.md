@@ -14,20 +14,45 @@ MeatFLIX.id is a parody website of [netflix.com](netflix.com), this contains cod
 ```bash
 git clone https://github.com/azir999/meatflix
 ```
-
-2. migration my database
-```bash
-php artisan migrate
-```
-3. seed my seeder
+2. Install composer
 
 ```bash
-php artisan db:seed
+composer install
 ```
-4. run website
+
+3. Migration my database and seeder
+```bash
+php artisan migrate --seed
+```
+
+4. Get key
+
+```bash
+php artisan key:generate
+```
+5. Clone env
+
+```bash
+cp .env.example .env
+```
+6. Run css
+
+```bash
+npm install
+npm run dev
+```
+
+7. run website
 
 ```bash
 php artisan serve
+```
+
+## Login
+
+```bash
+Email: admin@example.com
+Password : password
 ```
 
 ## 🚀 About Me
