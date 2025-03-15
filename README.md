@@ -59,7 +59,7 @@ password
 ```
 
 ## 🚀 About Me
-I'm a bird...
+Im a
 [bird...](https://www.github.com/azir999)
 enjoy
 
