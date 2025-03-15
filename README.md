@@ -1,4 +1,4 @@
-# MeatFLIX.id here baby
+# 🍖 MeatFLIX.id here baby
 
 MeatFLIX.id is a parody website of [netflix.com](netflix.com), this contains code that I made for my internship practice built using laravel 11 and tailwind 4.0., love dad ❤.
 
@@ -7,7 +7,7 @@ MeatFLIX.id is a parody website of [netflix.com](netflix.com), this contains cod
 
 
 
-## How to install
+## 📥 How to install
 
 1. Clone my repositories with link below
 
@@ -65,4 +65,4 @@ Im a
 
 ![bird](https://i.ibb.co.com/BVNq16Jc/Screenshot-2025-03-14-133639.png)
 
-## enjoy 🫶
+## enjoy 😁
