@@ -48,7 +48,7 @@ npm run dev
 php artisan serve
 ```
 
-## Login
+## 🔑 Login
 Email:
 ```bash
 admin@example.com
