@@ -42,22 +42,25 @@ npm install
 npm run dev
 ```
 
-7. run website
+7. Run website
 
 ```bash
 php artisan serve
 ```
 
 ## Login
-
+Email:
 ```bash
-Email: admin@example.com
-Password : password
+admin@example.com
+```
+Password:
+```bash
+password
 ```
 
 ## 🚀 About Me
 I'm a bird...
-[@azir999](https://www.github.com/azir999)
+[bird...](https://www.github.com/azir999)
 enjoy
 
 ![bird](https://i.ibb.co.com/BVNq16Jc/Screenshot-2025-03-14-133639.png)
